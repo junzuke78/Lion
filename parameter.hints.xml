@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.app.Activity.finishActivity(requestCode)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
